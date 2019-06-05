@@ -1,0 +1,6 @@
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\bin\Debug\ZoltanHerczegRDITest.exe.config
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\bin\Debug\ZoltanHerczegRDITest.exe
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\bin\Debug\ZoltanHerczegRDITest.pdb
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\obj\Debug\ZoltanHerczegRDITestPART4_1.csproj.CoreCompileInputs.cache
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\obj\Debug\ZoltanHerczegRDITest.exe
+C:\Users\Herczeg Zoltán\source\repos\ZoltanHerczegRDITest\ZoltanHerczegRDITest\obj\Debug\ZoltanHerczegRDITest.pdb
